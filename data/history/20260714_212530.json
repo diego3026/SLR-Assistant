@@ -1,0 +1,152 @@
+{
+    "date": "2026-07-14 21:25:30",
+    "research_topic": "Application of machine learning techniques for early diagnosis of cardiovascular diseases.",
+    "objectives": "1. Identify ML models used for cardiovascular risk prediction.\n2. Compare reported accuracy across studies.\n3. Detect research gaps for future work.",
+    "notes": "Focus on studies published after 2018. Exclude reviews without primary data.",
+    "equation": "(\"machine learning\" OR \"deep learning\") AND\n(\"cardiovascular disease\" OR \"heart disease\") AND\n(\"early diagnosis\" OR \"risk prediction\")\nNOT (\"animal study\")",
+    "statistics": {
+        "total_articles": 14,
+        "highly_relevant": 1,
+        "relevant": 13,
+        "noise": 0,
+        "average_similarity": 0.6003285646438599
+    },
+    "recommendations": [
+        {
+            "action": "add",
+            "term": "applied machine learning",
+            "frequency": 1,
+            "similarity": 0.7420764565467834,
+            "score": 0.6136611652374268,
+            "priority": "Medium",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.74."
+        },
+        {
+            "action": "add",
+            "term": "large language models",
+            "frequency": 6,
+            "similarity": 0.6009851694107056,
+            "score": 0.6007881355285645,
+            "priority": "Medium",
+            "reason": "Encontrado en 6 artículos relevantes con una similitud semántica de 0.60."
+        },
+        {
+            "action": "add",
+            "term": "retrieval-augmented generation",
+            "frequency": 5,
+            "similarity": 0.5835773944854736,
+            "score": 0.566861915588379,
+            "priority": "Low",
+            "reason": "Encontrado en 5 artículos relevantes con una similitud semántica de 0.58."
+        },
+        {
+            "action": "add",
+            "term": "local-first ai",
+            "frequency": 1,
+            "similarity": 0.6268844604492188,
+            "score": 0.5215075683593751,
+            "priority": "Low",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.63."
+        },
+        {
+            "action": "add",
+            "term": "pre-trained language model",
+            "frequency": 1,
+            "similarity": 0.622916579246521,
+            "score": 0.5183332633972169,
+            "priority": "Low",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.62."
+        },
+        {
+            "action": "add",
+            "term": "retrieval augmented generation",
+            "frequency": 2,
+            "similarity": 0.5890203714370728,
+            "score": 0.5112162971496582,
+            "priority": "Low",
+            "reason": "Encontrado en 2 artículos relevantes con una similitud semántica de 0.59."
+        },
+        {
+            "action": "add",
+            "term": "large language models (llms)",
+            "frequency": 1,
+            "similarity": 0.6123857498168945,
+            "score": 0.5099085998535157,
+            "priority": "Low",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.61."
+        },
+        {
+            "action": "add",
+            "term": "natural language processing",
+            "frequency": 1,
+            "similarity": 0.6076830625534058,
+            "score": 0.5061464500427246,
+            "priority": "Low",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.61."
+        },
+        {
+            "action": "add",
+            "term": "specification inference",
+            "frequency": 1,
+            "similarity": 0.5973100662231445,
+            "score": 0.49784805297851564,
+            "priority": "Low",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.60."
+        },
+        {
+            "action": "add",
+            "term": "reinforcement learning",
+            "frequency": 1,
+            "similarity": 0.593549907207489,
+            "score": 0.49483992576599123,
+            "priority": "Low",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.59."
+        },
+        {
+            "action": "add",
+            "term": "large language model",
+            "frequency": 1,
+            "similarity": 0.5906717777252197,
+            "score": 0.4925374221801758,
+            "priority": "Low",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.59."
+        },
+        {
+            "action": "add",
+            "term": "distilbert model",
+            "frequency": 1,
+            "similarity": 0.5882784724235535,
+            "score": 0.4906227779388428,
+            "priority": "Low",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.59."
+        },
+        {
+            "action": "add",
+            "term": "software engineering",
+            "frequency": 2,
+            "similarity": 0.5631484985351562,
+            "score": 0.490518798828125,
+            "priority": "Low",
+            "reason": "Encontrado en 2 artículos relevantes con una similitud semántica de 0.56."
+        },
+        {
+            "action": "add",
+            "term": "test case generation",
+            "frequency": 1,
+            "similarity": 0.5870869159698486,
+            "score": 0.48966953277587894,
+            "priority": "Low",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.59."
+        },
+        {
+            "action": "add",
+            "term": "generative ai",
+            "frequency": 1,
+            "similarity": 0.5821586847305298,
+            "score": 0.4857269477844239,
+            "priority": "Low",
+            "reason": "Encontrado en 1 artículos relevantes con una similitud semántica de 0.58."
+        }
+    ],
+    "generated_equation": "(\"machine learning\" OR \"deep learning\") AND\n(\"cardiovascular disease\" OR \"heart disease\") AND\n(\"early diagnosis\" OR \"risk prediction\")\nNOT (\"animal study\")\n\nAND\n(\n  \"applied machine learning\"\nOR\n\"large language models\"\nOR\n\"retrieval-augmented generation\"\nOR\n\"local-first ai\"\nOR\n\"pre-trained language model\"\n)"
+}

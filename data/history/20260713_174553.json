@@ -1,0 +1,16 @@
+{
+    "date": "2026-07-13 17:45:53",
+    "research_topic": "Application of machine learning techniques for early diagnosis of cardiovascular diseases.",
+    "objectives": "1. Identify ML models used for cardiovascular risk prediction.\n2. Compare reported accuracy across studies.\n3. Detect research gaps for future work.",
+    "notes": "Focus on studies published after 2018. Exclude reviews without primary data.",
+    "equation": "(\"machine learning\" OR \"deep learning\") AND\n(\"cardiovascular disease\" OR \"heart disease\") AND\n(\"early diagnosis\" OR \"risk prediction\")\nNOT (\"animal study\")",
+    "statistics": {
+        "total_articles": 14,
+        "highly_relevant": 1,
+        "relevant": 13,
+        "noise": 0,
+        "average_similarity": 0.6003285646438599
+    },
+    "recommendations": [],
+    "generated_equation": "(\"machine learning\" OR \"deep learning\") AND\n(\"cardiovascular disease\" OR \"heart disease\") AND\n(\"early diagnosis\" OR \"risk prediction\")\nNOT (\"animal study\")"
+}

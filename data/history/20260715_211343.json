@@ -1,0 +1,152 @@
+{
+    "date": "2026-07-15 21:13:43",
+    "research_topic": "Transition metal-doped sillenites for photocatalytic degradation of organic contaminants in water.",
+    "objectives": "1. Identify transition metal-doped sillenites used in photocatalysis.\n2. Compare combustion synthesis methods.\n3. Analyze photocatalytic performance for organic contaminant degradation.\n* Identify research trends and knowledge gaps.",
+    "notes": "Literature published between 2016 and 2026 from Scopus and Web of Science, focusing on transition metal-doped sillenites synthesized by combustion for photocatalytic water treatment.",
+    "equation": "( \"sillenite\" OR \"sillenites\" ) \nAND ( \"water treatment\" OR \"wastewater\" OR \"aqueous solution\" ) \nAND ( \"organic pollutants\" OR \"organic contaminants\" OR \"dyes\" OR \n\"pesticides\" OR \"pharmaceuticals\" )",
+    "statistics": {
+        "total_articles": 877,
+        "highly_relevant": 865,
+        "relevant": 12,
+        "noise": 0,
+        "average_similarity": 0.7444653511047363
+    },
+    "recommendations": [
+        {
+            "action": "add",
+            "term": "photocatalytic degradation",
+            "frequency": 33,
+            "similarity": 0.7766671180725098,
+            "score": 0.8213336944580079,
+            "priority": "High",
+            "reason": "Encontrado en 33 artículos relevantes con una similitud semántica de 0.78."
+        },
+        {
+            "action": "add",
+            "term": "photocatalytic activity",
+            "frequency": 13,
+            "similarity": 0.7709113359451294,
+            "score": 0.8167290687561035,
+            "priority": "High",
+            "reason": "Encontrado en 13 artículos relevantes con una similitud semántica de 0.77."
+        },
+        {
+            "action": "add",
+            "term": "photocatalytic",
+            "frequency": 18,
+            "similarity": 0.7466980814933777,
+            "score": 0.7973584651947021,
+            "priority": "High",
+            "reason": "Encontrado en 18 artículos relevantes con una similitud semántica de 0.75."
+        },
+        {
+            "action": "add",
+            "term": "photocatalysis",
+            "frequency": 134,
+            "similarity": 0.741808295249939,
+            "score": 0.7934466361999513,
+            "priority": "High",
+            "reason": "Encontrado en 134 artículos relevantes con una similitud semántica de 0.74."
+        },
+        {
+            "action": "add",
+            "term": "photodegradation",
+            "frequency": 24,
+            "similarity": 0.7180084586143494,
+            "score": 0.7744067668914796,
+            "priority": "High",
+            "reason": "Encontrado en 24 artículos relevantes con una similitud semántica de 0.72."
+        },
+        {
+            "action": "add",
+            "term": "photocatalyst",
+            "frequency": 31,
+            "similarity": 0.711514413356781,
+            "score": 0.7692115306854248,
+            "priority": "High",
+            "reason": "Encontrado en 31 artículos relevantes con una similitud semántica de 0.71."
+        },
+        {
+            "action": "add",
+            "term": "advanced oxidation processes",
+            "frequency": 16,
+            "similarity": 0.6759042739868164,
+            "score": 0.7407234191894532,
+            "priority": "Medium",
+            "reason": "Encontrado en 16 artículos relevantes con una similitud semántica de 0.68."
+        },
+        {
+            "action": "add",
+            "term": "perovskite",
+            "frequency": 13,
+            "similarity": 0.6752969622612,
+            "score": 0.74023756980896,
+            "priority": "Medium",
+            "reason": "Encontrado en 13 artículos relevantes con una similitud semántica de 0.68."
+        },
+        {
+            "action": "add",
+            "term": "heterogeneous catalysis",
+            "frequency": 12,
+            "similarity": 0.6704791784286499,
+            "score": 0.73638334274292,
+            "priority": "Medium",
+            "reason": "Encontrado en 12 artículos relevantes con una similitud semántica de 0.67."
+        },
+        {
+            "action": "add",
+            "term": "bismuth titanate",
+            "frequency": 11,
+            "similarity": 0.6533436179161072,
+            "score": 0.7226748943328858,
+            "priority": "Medium",
+            "reason": "Encontrado en 11 artículos relevantes con una similitud semántica de 0.65."
+        },
+        {
+            "action": "add",
+            "term": "bismuth ferrite",
+            "frequency": 12,
+            "similarity": 0.6526293754577637,
+            "score": 0.7221035003662111,
+            "priority": "Medium",
+            "reason": "Encontrado en 12 artículos relevantes con una similitud semántica de 0.65."
+        },
+        {
+            "action": "add",
+            "term": "advanced oxidation process",
+            "frequency": 13,
+            "similarity": 0.6504278182983398,
+            "score": 0.720342254638672,
+            "priority": "Medium",
+            "reason": "Encontrado en 13 artículos relevantes con una similitud semántica de 0.65."
+        },
+        {
+            "action": "add",
+            "term": "photocatalytic properties",
+            "frequency": 5,
+            "similarity": 0.7656246423721313,
+            "score": 0.7124997138977051,
+            "priority": "Medium",
+            "reason": "Encontrado en 5 artículos relevantes con una similitud semántica de 0.77."
+        },
+        {
+            "action": "add",
+            "term": "photocatalysts",
+            "frequency": 7,
+            "similarity": 0.7155842781066895,
+            "score": 0.7124674224853516,
+            "priority": "Medium",
+            "reason": "Encontrado en 7 artículos relevantes con una similitud semántica de 0.72."
+        },
+        {
+            "action": "add",
+            "term": "electron transfer",
+            "frequency": 12,
+            "similarity": 0.6344056129455566,
+            "score": 0.7075244903564453,
+            "priority": "Medium",
+            "reason": "Encontrado en 12 artículos relevantes con una similitud semántica de 0.63."
+        }
+    ],
+    "generated_equation": "( \"sillenite\" OR \"sillenites\" ) \nAND ( \"water treatment\" OR \"wastewater\" OR \"aqueous solution\" ) \nAND ( \"organic pollutants\" OR \"organic contaminants\" OR \"dyes\" OR \n\"pesticides\" OR \"pharmaceuticals\" )\n\nAND\n(\n  \"photocatalytic degradation\"\nOR\n\"photocatalytic activity\"\nOR\n\"photocatalytic\"\nOR\n\"photocatalysis\"\nOR\n\"photodegradation\"\n)"
+}

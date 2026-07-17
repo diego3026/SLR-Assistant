@@ -1,0 +1,152 @@
+{
+    "date": "2026-07-13 17:56:45",
+    "research_topic": "Application of machine learning techniques for early diagnosis of cardiovascular diseases.",
+    "objectives": "1. Identify ML models used for cardiovascular risk prediction.\n2. Compare reported accuracy across studies.\n3. Detect research gaps for future work.",
+    "notes": "Focus on studies published after 2018. Exclude reviews without primary data.",
+    "equation": "(\"machine learning\" OR \"deep learning\") AND\n(\"cardiovascular disease\" OR \"heart disease\") AND\n(\"early diagnosis\" OR \"risk prediction\")\nNOT (\"animal study\")",
+    "statistics": {
+        "total_articles": 14,
+        "highly_relevant": 1,
+        "relevant": 13,
+        "noise": 0,
+        "average_similarity": 0.6003285646438599
+    },
+    "recommendations": [
+        {
+            "action": "add",
+            "term": "applied machine learning",
+            "frequency": 1,
+            "similarity": 0.7420765161514282,
+            "score": 0.6136612129211426,
+            "priority": "Medium",
+            "reason": "The term \"applied machine learning\" appears in 1 highly relevant articles and has semantic similarity of 0.74 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "large language models",
+            "frequency": 6,
+            "similarity": 0.6009851098060608,
+            "score": 0.6007880878448486,
+            "priority": "Medium",
+            "reason": "The term \"large language models\" appears in 6 highly relevant articles and has semantic similarity of 0.60 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "retrieval-augmented generation",
+            "frequency": 5,
+            "similarity": 0.5835774540901184,
+            "score": 0.5668619632720947,
+            "priority": "Medium",
+            "reason": "The term \"retrieval-augmented generation\" appears in 5 highly relevant articles and has semantic similarity of 0.58 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "local-first ai",
+            "frequency": 1,
+            "similarity": 0.6268844604492188,
+            "score": 0.5215075683593751,
+            "priority": "Low",
+            "reason": "The term \"local-first ai\" appears in 1 highly relevant articles and has semantic similarity of 0.63 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "pre-trained language model",
+            "frequency": 1,
+            "similarity": 0.6229166984558105,
+            "score": 0.5183333587646485,
+            "priority": "Low",
+            "reason": "The term \"pre-trained language model\" appears in 1 highly relevant articles and has semantic similarity of 0.62 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "retrieval augmented generation",
+            "frequency": 2,
+            "similarity": 0.5890203714370728,
+            "score": 0.5112162971496582,
+            "priority": "Low",
+            "reason": "The term \"retrieval augmented generation\" appears in 2 highly relevant articles and has semantic similarity of 0.59 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "large language models (llms)",
+            "frequency": 1,
+            "similarity": 0.6123857498168945,
+            "score": 0.5099085998535157,
+            "priority": "Low",
+            "reason": "The term \"large language models (llms)\" appears in 1 highly relevant articles and has semantic similarity of 0.61 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "natural language processing",
+            "frequency": 1,
+            "similarity": 0.6076831221580505,
+            "score": 0.5061464977264405,
+            "priority": "Low",
+            "reason": "The term \"natural language processing\" appears in 1 highly relevant articles and has semantic similarity of 0.61 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "specification inference",
+            "frequency": 1,
+            "similarity": 0.5973100662231445,
+            "score": 0.49784805297851564,
+            "priority": "Low",
+            "reason": "The term \"specification inference\" appears in 1 highly relevant articles and has semantic similarity of 0.60 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "reinforcement learning",
+            "frequency": 1,
+            "similarity": 0.593549907207489,
+            "score": 0.49483992576599123,
+            "priority": "Low",
+            "reason": "The term \"reinforcement learning\" appears in 1 highly relevant articles and has semantic similarity of 0.59 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "large language model",
+            "frequency": 1,
+            "similarity": 0.5906717777252197,
+            "score": 0.4925374221801758,
+            "priority": "Low",
+            "reason": "The term \"large language model\" appears in 1 highly relevant articles and has semantic similarity of 0.59 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "distilbert model",
+            "frequency": 1,
+            "similarity": 0.5882784128189087,
+            "score": 0.490622730255127,
+            "priority": "Low",
+            "reason": "The term \"distilbert model\" appears in 1 highly relevant articles and has semantic similarity of 0.59 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "software engineering",
+            "frequency": 2,
+            "similarity": 0.5631484389305115,
+            "score": 0.49051875114440924,
+            "priority": "Low",
+            "reason": "The term \"software engineering\" appears in 2 highly relevant articles and has semantic similarity of 0.56 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "test case generation",
+            "frequency": 1,
+            "similarity": 0.5870869755744934,
+            "score": 0.48966958045959474,
+            "priority": "Low",
+            "reason": "The term \"test case generation\" appears in 1 highly relevant articles and has semantic similarity of 0.59 with the research context."
+        },
+        {
+            "action": "add",
+            "term": "generative ai",
+            "frequency": 1,
+            "similarity": 0.5821586847305298,
+            "score": 0.4857269477844239,
+            "priority": "Low",
+            "reason": "The term \"generative ai\" appears in 1 highly relevant articles and has semantic similarity of 0.58 with the research context."
+        }
+    ],
+    "generated_equation": "(\"machine learning\" OR \"deep learning\") AND\n(\"cardiovascular disease\" OR \"heart disease\") AND\n(\"early diagnosis\" OR \"risk prediction\")\nNOT (\"animal study\")\n\nAND\n(\n    \"applied machine learning\"\nOR\n\"large language models\"\nOR\n\"retrieval-augmented generation\"\nOR\n\"local-first ai\"\nOR\n\"pre-trained language model\"\n)"
+}

@@ -1,0 +1,113 @@
+{
+    "date": "2026-07-11 16:20:03",
+    "research_topic": "Knowledge Representation Strategies for RAG-based Software Architecture Understanding",
+    "objectives": "\n    Compare structured representations\n    used in Retrieval-Augmented Generation.\n    ",
+    "notes": "\n    Repository Intelligence Graph\n    GraphRAG\n    Knowledge Graph\n    ",
+    "equation": "\n    (\"knowledge graph\")\n    AND\n    (\"software architecture\")\n    AND\n    (\"GraphRAG\")\n    ",
+    "statistics": {
+        "total_articles": 14,
+        "highly_relevant": 2,
+        "relevant": 12,
+        "low_relevance": 0,
+        "noise": 0
+    },
+    "recommendations": [
+        {
+            "term": "generation deployment artifacts",
+            "score": 0.5349
+        },
+        {
+            "term": "agent automates repository",
+            "score": 0.4908
+        },
+        {
+            "term": "tools large language",
+            "score": 0.4774
+        },
+        {
+            "term": "automated artifact generation",
+            "score": 0.4723
+        },
+        {
+            "term": "refactoring github automation",
+            "score": 0.4721
+        },
+        {
+            "term": "deployment artifacts",
+            "score": 0.4689
+        },
+        {
+            "term": "automates generation deployment",
+            "score": 0.4671
+        },
+        {
+            "term": "semantic code search",
+            "score": 0.4652
+        },
+        {
+            "term": "deployment artifacts code",
+            "score": 0.465
+        },
+        {
+            "term": "specification generation agent",
+            "score": 0.4626
+        },
+        {
+            "term": "artifacts code repositories",
+            "score": 0.4586
+        },
+        {
+            "term": "github automation large",
+            "score": 0.4522
+        },
+        {
+            "term": "agentic coding tools",
+            "score": 0.4517
+        },
+        {
+            "term": "automation large language",
+            "score": 0.4507
+        },
+        {
+            "term": "code generation tasks",
+            "score": 0.4494
+        },
+        {
+            "term": "deployable artifacts",
+            "score": 0.4439
+        },
+        {
+            "term": "automated specification generation",
+            "score": 0.4402
+        },
+        {
+            "term": "agent pipeline",
+            "score": 0.4401
+        },
+        {
+            "term": "agent pipeline significantly",
+            "score": 0.4395
+        },
+        {
+            "term": "repoai automated code",
+            "score": 0.4388
+        },
+        {
+            "term": "automates repository",
+            "score": 0.4377
+        },
+        {
+            "term": "ai developer tools",
+            "score": 0.4373
+        },
+        {
+            "term": "particularly api mapping",
+            "score": 0.4364
+        },
+        {
+            "term": "downstream code generation",
+            "score": 0.4357
+        }
+    ],
+    "generated_equation": "\n            (\n    (\"knowledge graph\")\n    AND\n    (\"software architecture\")\n    AND\n    (\"GraphRAG\")\n     OR \"generation deployment artifacts\"\nOR\n\"agent automates repository\"\nOR\n\"tools large language\"\nOR\n\"automated artifact generation\"\nOR\n\"refactoring github automation\")\n        "
+}
